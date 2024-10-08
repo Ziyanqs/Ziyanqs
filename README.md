@@ -6,10 +6,12 @@
 
 <h2>👨‍💻 My IT Projects:</h2>
 
-- <b>GradeConvertor</b>
-  - [Letter Grade Convertor](https://github.com/Ziyanqs/GradeConvertor)
 - <b>Calculator Java</b>
   - [Calculator](https://github.com/Ziyanqs/Calculator)
+- <b>GradeConvertor</b>
+  - [Letter Grade Convertor](https://github.com/Ziyanqs/GradeConvertor)
+- <b>Sorting using Bubble Method</b>
+  - [BubbleSorting](https://github.com/Ziyanqs/BubbleSorting)
 - <b>My Portfolio practice Using HTML and CSS</b>
   - [Portfolio](https://github.com/Ziyanqs/MyPortfolio)
 - <b>Reverse Number Checker</b>
